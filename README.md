@@ -20,5 +20,5 @@ Finally, the script is executed under the if __name__ == "__main__": block to en
 
 
 #OUTPUT:
-![Image](https://github.com/user-attachments/assets/e2b50f72-8e80-4324-9737-b2bef57e9b01)
+
 
