@@ -19,5 +19,6 @@ Before starting the chatbot, the code checks if certain NLTK resources (wordnet 
 Finally, the script is executed under the if __name__ == "__main__": block to ensure that it runs only when the file is executed as a standalone program and not when imported as a module elsewhere. This chatbot is purely pattern-based and does not involve machine learning or AI models; hence, its responses are limited to the predefined patterns and lack contextual understanding or memory. Despite its simplicity, it demonstrates the foundational concept of how chatbots function using pattern recognition techniques.
 
 
-
+#OUTPUT:
+![Image](https://github.com/user-attachments/assets/e2b50f72-8e80-4324-9737-b2bef57e9b01)
 
